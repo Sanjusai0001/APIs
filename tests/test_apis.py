@@ -9,7 +9,6 @@ base_url = "https://gorest.co.in"
 
 auth_token = "Bearer e4b8e1f593dc4a731a153c5ec8cc9b8bbb583ae964ce650a741113091b4e2ac6"
 
-
 def test_random_email_generator():
     domain = "gmail.com"
     email_length = 10

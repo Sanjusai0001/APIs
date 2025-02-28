@@ -16,7 +16,6 @@ def random_email_generator():
     email = random_string + "@" + domain
     return email
 
-
 # GET
 
 def get_request():
